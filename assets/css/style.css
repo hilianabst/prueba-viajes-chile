@@ -32,3 +32,16 @@ header{
 .logo{
   width: 5%;
 }
+
+.bordeazul{
+  background-color: #389eaa;
+}
+
+.card{
+  color: black;
+}
+
+footer{
+  background-color: #389eaa;
+  width:  100%;
+}
