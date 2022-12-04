@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+header{
+
+  background-image: url('../img/bg-hero.jpg');
+
+}
+.carousel-indicators{
+  top: 50px;
+}
+
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius:50%;
+}
