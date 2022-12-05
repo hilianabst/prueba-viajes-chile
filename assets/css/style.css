@@ -1,3 +1,9 @@
+*{
+
+ 
+}
+
+
 body{
   color: white;
   background-color: black;
@@ -43,5 +49,10 @@ header{
 
 footer{
   background-color: #389eaa;
-  width:  100%;
+ 
+}
+
+.iconos{
+  vertical-align: middle;
+  display: inline-block;
 }
