@@ -1,7 +1,3 @@
-*{
-
- 
-}
 
 
 body{
@@ -50,9 +46,11 @@ header{
 footer{
   background-color: #389eaa;
  
+ 
 }
 
 .iconos{
   vertical-align: middle;
   display: inline-block;
 }
+
